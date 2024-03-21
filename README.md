@@ -6,8 +6,6 @@ Scraping-Shopee-Produk-Review adalah sebuah proyek yang bertujuan untuk mengumpu
 Dengan menggunakan proyek ini, pengguna dapat dengan mudah mengumpulkan data ulasan produk dari Shopee secara otomatis, yang nantinya dapat digunakan untuk berbagai analisis atau keperluan lainnya. Langkah-langkah instalasi dan penggunaan proyek ini telah disediakan dalam file README untuk memudahkan pengguna dalam memulai penggunaan proyek ini.
 
 
-# Scraping-Shopee-Produk-Review
-
 ## Nomenklatur Dataset ##
 | Atribut           | Penjelasan                                          |
 |-------------------|-----------------------------------------------------|
