@@ -45,3 +45,6 @@ python main.py
 ```
 
 Pastikan untuk mengikuti langkah-langkah di atas untuk menjalankan scraping Shopee produk review dengan benar.
+
+## RESULT ##
+Contoh hasil scraping : https://docs.google.com/spreadsheets/d/1ILQHojwfoQxh6bkjlUFY-7sNSYMJUzfg6RZbEkgFERo/edit?usp=sharing
